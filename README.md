@@ -12,4 +12,4 @@ opportunities in Japan's tech industry.
 - Learning: Docker, AWS, Japanese (日本語勉強中)
 
 ## Find me
-📧 your.email@gmail.com
+📧 gelladojohnkris@gmail.com
