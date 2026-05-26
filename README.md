@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm John Kris 👋
 
-<!--
-**Jkris0917/Jkris0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python backend developer building REST APIs with Django and Flask.
+Currently studying Japanese (JLPT N4 target) and preparing for
+opportunities in Japan's tech industry.
 
-Here are some ideas to get you started:
+## Tech stack
+🐍 Python · Django · Flask · PostgreSQL · SQLAlchemy · DRF · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently building
+- Expense Tracker API (Django + PostgreSQL)
+- Learning: Docker, AWS, Japanese (日本語勉強中)
+
+## Find me
+📧 your.email@gmail.com
