@@ -57,15 +57,9 @@ REST API for personal expense tracking and budget management.
 Document question-answering system using Retrieval-Augmented Generation.
 
 **Stack:** Python · LangChain · Vector DB
-
+🔗 [Live Website](https://rag-document-qa-five.vercel.app/)
 ---
 
-### 🕷 [Job Scraper](https://github.com/Jkris0917/job_scraper)
-Automated job listing scraper and aggregator.
-
-**Stack:** Python · BeautifulSoup · PostgreSQL
-
----
 
 ## 📈 What I'm Currently Learning
 
