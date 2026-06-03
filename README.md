@@ -57,9 +57,24 @@ REST API for personal expense tracking and budget management.
 Document question-answering system using Retrieval-Augmented Generation.
 
 **Stack:** Python · LangChain · Vector DB
+
 🔗 [Live Website](https://rag-document-qa-five.vercel.app/)
+
 ---
 
+### 🛒 [E-commerce API](https://github.com/Jkris0917/ecommerce-api)
+Production-grade REST API for e-commerce with atomic checkout processing.
+
+- JWT authentication and admin-only product management
+- Cart system with stock validation
+- Atomic checkout — stock reduction, order creation, cart clearing in one transaction
+- 16 automated tests with pytest-django
+- CI/CD with GitHub Actions
+
+**Stack:** Django · DRF · PostgreSQL · Docker · GitHub Actions
+
+🔗 [Live API + Swagger UI](https://ecommerce-api-a9nh.onrender.com/api/docs/)
+---
 
 ## 📈 What I'm Currently Learning
 
