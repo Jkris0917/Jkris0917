@@ -58,6 +58,7 @@ Production-grade REST API for a full e-commerce platform.
 - CI/CD pipeline via GitHub Actions
 
 **Stack:** Django · DRF · PostgreSQL · Docker · GitHub Actions
+
 🔗 [Live API + Swagger UI](https://ecommerce-api-a9nh.onrender.com/api/docs/)
 ---
 
